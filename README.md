@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komal
-- 👀 I’m interested in Web-apps,Designing and Web development.
-- 🌱 I’m currently learning Web-Development
+- 👀 Interests → Web-apps, Designing and Web development.
+- 🌱 Frontend Developer (React JS)
 - 📫 How to reach me via email id -komalsolanki2605@gmail.com 
 
 <!---
