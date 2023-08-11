@@ -1,14 +1,5 @@
-<!-- - 👋 Hi, I’m @komal
-- 👀 Interests → Web-apps, Designing and Web development.
-- 🌱 Frontend Developer (React JS)
-- -->
-
-<!---
-komal2605/komal2605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 💫 About Me:
-Frontend Web Developer | HTML, CSS, Javascript, React JS| Building Innovative Web Solutions
+Frontend Web Developer | HTML, CSS, Javascript, React JS | Building Innovative Web Solutions
 ## ✉️ komalsolanki2605@gmail.com 
 
 ## 🌐 Socials:
@@ -23,8 +14,5 @@ Frontend Web Developer | HTML, CSS, Javascript, React JS| Building Innovative We
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=komal2605&theme=radical&no-frame=true&no-bg=false&margin-w=4) -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
